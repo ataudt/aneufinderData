@@ -9,9 +9,6 @@
 \source{
 A single cell from T-cell Acute Lymphoblastic Leukemia in mouse. The file has been downsampled to 20\% of the coverage to reduce the file size. For further details see TODO: insert publication (tumor ID T386).
 }
-\usage{
-# file <- system.file("extdata", "BB150803_IV_074.bam", package="AneuFinderData")
-}
 \description{
 A BAM-file for demonstration purposes of the functions in package \pkg{AneuFinder}.
 }

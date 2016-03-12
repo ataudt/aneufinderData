@@ -9,9 +9,6 @@
 \source{
 A single cell with WGSCS reads of a human brain cell. Unpublished data.
 }
-\usage{
-# file <- system.file("extdata", "hg19_diploid.bam.bed.gz", package="AneuFinderData")
-}
 \description{
 A BAM-file with reads from a diploid human brain cell for demonstration purposes of the functions in package \pkg{AneuFinder}.
 }

@@ -7,9 +7,6 @@
 #' @docType data
 #' @name primary_lung
 #' @aliases primary lung
-#' @usage
-#'# path <- system.file("extdata", "primary-lung", "hmms", package="AneuFinderData")
-#'# files <- list.files(path, full.names=TRUE)
 #' @format Files with \code{aneuHMM} objects.
 #' @source Patient material from a primary small cell lung cancer of a 79 year old women. For details see TODO:insert publication.
 NULL
@@ -22,9 +19,6 @@ NULL
 #' @docType data
 #' @name metastasis_liver
 #' @aliases metastasis liver
-#' @usage
-#'# path <- system.file("extdata", "metastasis-liver", "hmms", package="AneuFinderData")
-#'# files <- list.files(path, full.names=TRUE)
 #' @format Files with \code{aneuHMM} objects.
 #' @source Patient material from a liver metastasis of a 79 year old women. For details see TODO:insert publication.
 NULL
@@ -37,8 +31,6 @@ NULL
 #' @docType data
 #' @name BB150803_IV_074
 #' @aliases bam
-#' @usage
-#'# file <- system.file("extdata", "BB150803_IV_074.bam", package="AneuFinderData")
 #' @format A BAM file with aligned reads.
 #' @source A single cell from T-cell Acute Lymphoblastic Leukemia in mouse. The file has been downsampled to 20\% of the coverage to reduce the file size. For further details see TODO: insert publication (tumor ID T386).
 NULL
@@ -51,8 +43,6 @@ NULL
 #' @docType data
 #' @name KK150311_VI_07
 #' @aliases bed
-#' @usage
-#'# file <- system.file("extdata", "KK150311_VI_07.bam.bed.gz", package="AneuFinderData")
 #' @format A BED file with aligned reads.
 #' @source A single cell with Strand-seq reads. Unpublished data.
 NULL
@@ -65,8 +55,6 @@ NULL
 #' @docType data
 #' @name hg19_diploid
 #' @aliases diploid
-#' @usage
-#'# file <- system.file("extdata", "hg19_diploid.bam.bed.gz", package="AneuFinderData")
 #' @format A BED file with aligned reads.
 #' @source A single cell with WGSCS reads of a human brain cell. Unpublished data.
 NULL

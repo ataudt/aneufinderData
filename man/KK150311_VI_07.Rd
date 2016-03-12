@@ -9,9 +9,6 @@
 \source{
 A single cell with Strand-seq reads. Unpublished data.
 }
-\usage{
-# file <- system.file("extdata", "KK150311_VI_07.bam.bed.gz", package="AneuFinderData")
-}
 \description{
 A BED-file for demonstration purposes of the functions in package \pkg{AneuFinder}.
 }
